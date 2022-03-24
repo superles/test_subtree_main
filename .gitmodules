@@ -1,0 +1,4 @@
+[submodule "test_subtree_sub"]
+	path = test_subtree_sub
+	url = https://github.com/superles/test_subtree_sub.git
+	branch = develop
